@@ -3,4 +3,5 @@ kind: Namespace
 metadata:
   labels:
     name: lasample
+    source: flucd
   name: lasample
